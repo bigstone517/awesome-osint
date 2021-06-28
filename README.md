@@ -1818,6 +1818,7 @@ algorithms, knowledgebase and AI technology.
 * [Any.do](http://www.any.do)
 * [Apollo](http://www.apollohq.com)
 * [Asana](https://asana.com)
+* [ZenTao](https://zentao.pm)
 * [Authorea](https://www.authorea.com)
 * [AWW](https://awwapp.com)
 * [Azendoo](https://www.azendoo.com)
